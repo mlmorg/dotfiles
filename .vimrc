@@ -10,6 +10,7 @@ set showtabline=2 " show tabs toolbar
 set number " show line numbers
 set wrap " line wrapper
 set scrolloff=5 " show 5 lines of context around cursor
+set colorcolumn=80
 
 set ignorecase " case-insensitive search
 set smartcase " case-sensitive if expression contains capital letter
