@@ -17,8 +17,9 @@ set smartcase " case-sensitive if expression contains capital letter
 set incsearch " highlight matches as you type
 set hlsearch " highlight matches
 
-set t_Co=256
-colorscheme xoria256
+set t_Co=256 " use 256 colors
+set background=dark
+colorscheme solarized
 
 set guifont=Monaco:h14
 
